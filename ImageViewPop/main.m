@@ -8,7 +8,14 @@
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
-
+/**
+ *  hahahh
+ *
+ *  @param argc <#argc description#>
+ *  @param argv <#argv description#>
+ *
+ *  @return <#return value description#>
+ */
 int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
